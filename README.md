@@ -1,6 +1,6 @@
 # Hi, I'm Govind 👋
 
-📍 **Gujarat, India** | 📊 **Aspiring Data Analyst** | 🤖 **AI-Augmented Analyst**
+📍 **Gujarat, India** | 📊 **Data Analyst** | 🤖 **AI-Augmented Analyst**
 
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
@@ -11,8 +11,6 @@
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/-Claude%20AI-000000?style=flat-square&logo=anthropic&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-
-> B.Com fresher who thinks in queries, cleans data before trusting it, and uses AI tools to ship analysis faster than most. Currently building a portfolio that speaks louder than my CGPA.
 
 ---
 
@@ -59,9 +57,9 @@ Completed all **50 SQL problems** on LeetCode's curated SQL Study Plan.
 |---|---|
 | **Data & Querying** | SQL (PostgreSQL · MySQL · MS SQL Server), Excel |
 | **Programming** | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| **BI & Visualization** | Power BI, Jupyter Notebook, pgAdmin 4 |
+| **BI & Visualization** | Power BI, Jupyter Notebook,|
 | **Data Modeling** | Relational schema design, ER diagrams, normalization |
-| **Dev Tools** | Git, GitHub, VS Code, Notion |
+| **Dev Tools** | Git, GitHub, VS Code, pycharm, Notion |
 | **Gen AI & Productivity** | Claude AI, Claude Code, Prompt Engineering, AI Workflow Automation |
 | **Concepts** | EDA, Data Cleaning, Window Functions, Data Validation, Business Reporting |
 
@@ -69,10 +67,10 @@ Completed all **50 SQL problems** on LeetCode's curated SQL Study Plan.
 
 ## 📜 Certifications
 
-- 🏆 **SQL (Advanced)** — HackerRank `2025`
-- 🏆 **Data Analysis with Python** — IBM · Coursera `2025`
-- 🏆 **Data Modeling** — LinkedIn `2025`
-- 🔜 **Microsoft Power BI (PL-300)** — Exam scheduled **May 25, 2026** *(in progress)*
+- 🏆 **SQL (Advanced)** — HackerRank `2026`
+- 🏆 **Data Analysis with Python** — IBM · Coursera `2026`
+- 🏆 **Data Modeling** — Pragmatic works `2026`
+- 🔜 **Microsoft Power BI (PL-300)** — Exam scheduled *(in progress)*
 
 ---
 
@@ -96,11 +94,9 @@ Completed all **50 SQL problems** on LeetCode's curated SQL Study Plan.
 
 ## 🎯 What I'm Building Toward
 
-Entry-level **Data Analyst** roles at analytics-first companies where I can work on real business problems, build clean pipelines, and grow fast.
+**Data Analyst** roles at analytics-first companies where I can work on real business problems, build clean pipelines, and grow fast.
 
-**Currently:** Completing B.Com (May 2026) · Preparing for PL-300 (May 25, 2026)
-
-**Target companies:** Fractal Analytics · LatentView · Mu Sigma · Groww · PhonePe · Meesho
+**Currently:** Completed Bachelors (2026) · Preparing for PL-300
 
 ---
 
@@ -109,7 +105,7 @@ Entry-level **Data Analyst** roles at analytics-first companies where I can work
 [![LinkedIn](https://img.shields.io/badge/-aal--govind-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aal-govind-4b2413279)
 [![Email](https://img.shields.io/badge/-aalgovind05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aalgovind05@gmail.com)
 [![GitHub](https://img.shields.io/badge/-aalgovind05-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aalgovind05)
-[![LeetCode](https://img.shields.io/badge/-LeetCode%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aalgovind05/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode%20SQL%2050-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Govind_Aal/)
 
 ---
 
